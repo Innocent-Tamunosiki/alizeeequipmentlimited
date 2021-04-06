@@ -1,6 +1,6 @@
-Thanks for downloading this template!
+Thanks for downloading this file!
 
-Template Name: Medicio
-Template URL: https://bootstrapmade.com/medicio-free-bootstrap-theme/
-Author: BootstrapMade.com
-License: https://bootstrapmade.com/license/
+Template Name: alizeeequipmentlimited
+Template URL: https://alizeeequipmentlimited/
+Author: innocenttamunosiki.netlify.app
+License: https://innocenttamunosiki.netlify.app/license/
